@@ -5,9 +5,9 @@ public class Test {
 
         Person p = new Person("John", 25, "USA");
 
-        p.setName("Mike");   // private via setter
-        p.age = 30;          // protected
-        p.country = "Canada"; // public
+        p.setName("Mike");   
+        p.age = 30;          
+        p.country = "Canada"; 
 
         System.out.println(p.getName());
         p.display();
