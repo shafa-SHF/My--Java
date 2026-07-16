@@ -1,0 +1,5 @@
+org\acme\store\CartResource$AddItemRequest.class
+org\acme\store\CartResource.class
+org\acme\store\ProductResource.class
+org\acme\store\CartItem.class
+org\acme\store\Product.class
